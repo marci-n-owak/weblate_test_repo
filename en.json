@@ -3,5 +3,6 @@
   "description": "It's a beautiful day outside.",
   "login-button": "Log in",
   "register-button": "Register",
-  "test-button": "Test"
+  "test-button": "Test",
+  "hello-world": "Hello world!"
 }
